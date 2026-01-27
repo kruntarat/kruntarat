@@ -19,4 +19,6 @@
 - UI/UX Design Projects (Figma)
 - Data Dashboard Projects (Power BI)
 
-
+## 📄 Publications
+- **International Conference on Smart Infrastructure and Construction Engineering (ICSEC 2024)**  
+  🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/10770732
