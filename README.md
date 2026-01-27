@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Kruntarat Samngamnoi
 
-<!--
-**kruntarat/kruntarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology graduate from Khon Kaen University  
+💻 Interested in Web Application Development  
+🎨 UI/UX Design (Figma, Adobe XD)  
+📊 Data Visualization (Power BI, Looker Studio)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills
+- Web: HTML, CSS, PHP, JavaScript, Laravel
+- Programming: Python, Java, Kotlin
+- Database: MySQL, MSSQL, MongoDB, Firebase
+- UI/UX Design: Figma, Adobe XD
+- Data Visualization: Power BI, Looker Studio
+
+### 📌 Featured Projects
+- ICSEC 2024 Conference Website (PHP)
+- Web Application for Coffin Service (Sirirat Coffin) (PHP)
+- UI/UX Design Projects (Figma)
+- Data Dashboard Projects (Power BI)
+
+
