@@ -13,10 +13,18 @@
 - Data Visualization: Power BI, Looker Studio
 
 ## 📌 Featured Projects
-- ICSEC 2024 Conference Website (PHP)
-- Web Application for Coffin Service (Sirirat Coffin) (PHP)
-- UI/UX Design Projects (Figma)
-- Data Dashboard Projects (Power BI)
+- **ICSEC 2024 Conference Website (PHP)**  
+  🔗 https://icsec2024.org/
+
+- **Web Application for Coffin Service (Sirirat Coffin) (PHP)**  
+  🔗 https://itweb1866.cpkkuhost.com/
+
+- **UI/UX Design Projects (Figma)**  
+  🔗 https://www.figma.com/proto/Jl4oBTvNWIeZLtQSprb1Zy/SMIT?node-id=291-377&p=f&t=gc3IRtgQreTckI1y-1&scaling=scale-down&content-scaling=fixed&page-id=6%3A7&starting-point-node-id=291%3A377
+
+- **Data Dashboard Projects (Power BI)**  
+  🔗 https://github.com/kruntarat/thailand-electricity-powerbi-dashboard
+
 
 ## 📄 Publications
 - **International Conference on Smart Infrastructure and Construction Engineering (ICSEC 2024)**  
