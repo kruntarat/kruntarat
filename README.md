@@ -27,5 +27,5 @@
 
 
 ## 📄 Publications
-- **International Conference on Smart Infrastructure and Construction Engineering (ICSEC 2024)**  
+-  Ensuring IoT Controller Reliability with Colored Generalized Stochastic Petri Net
   🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/10770732
