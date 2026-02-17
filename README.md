@@ -25,8 +25,7 @@
 - **Data Dashboard Projects (Power BI)**  
   🔗 https://github.com/kruntarat/thailand-electricity-powerbi-dashboard
 
-
 ## 📄 Publications
--  **Ensuring IoT Controller Reliability with Colored Generalized Stochastic Petri Net**
-
-   🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/10770732
+- **Ensuring IoT Controller Reliability with Colored Generalized Stochastic Petri Net**  
+  🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/10770732
+  
